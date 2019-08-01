@@ -1,0 +1,2 @@
+# samplepackage
+sample npm module
